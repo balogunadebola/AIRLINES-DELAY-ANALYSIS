@@ -51,6 +51,7 @@ IV: In-depth analysis was conducted in the "Airports Delay Analysis" and also a 
 
 -The SouthWest Airline with the code WN native to Dallas, USA recorded the most number of flights (94,001) which could be narrowed down to the possibility of discounted fares, provision for direct flights and good hospitality. 
 -The SouthWest airline with code WN ranked highest on flight delays (69.4%) and this tells alot about the company's inefficiencies. 
+-The ATL airport was discovered to be the airport that has recorded the lowest number of flight delays which can be attributed to their efficient system. 
 -The CO airlines are renowned for travelling long distances as they ranked top on the list of Airlines with average distance.
 -Tuesday is the day of the week with the most delays and this can be possibly traced to air traffic or shabby aircraft preparations.
 -Geographically, the North America continent, with the USA as the lead country accounted for the highest number of flight delays for departure airports, with ATL top of the list while Denmark in Europe follow behind in second. 
