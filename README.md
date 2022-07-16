@@ -18,7 +18,8 @@
 
 
 ----
-# Data Visualization (General Flight Analysis)![General Flight Analysis](https://user-images.githubusercontent.com/107516898/179355400-3ae78a97-ef24-4e46-b59a-42aa053b42df.png)
+# Data Visualization (General Flight Analysis)![General Flight Analysis](https://user-images.githubusercontent.com/107516898/179373207-f3d9af12-a276-4e48-9eed-b5a013dd0f18.png)
+
 
 
 
@@ -26,7 +27,8 @@
 
 
 ----
-# Data Visualization (Airport Delay Analysis)![Airport Delay Analysis](https://user-images.githubusercontent.com/107516898/179355278-bbba1afc-71a3-4a7c-ad75-51c68117e6ea.png)
+# Data Visualization (Airport Delay Analysis)![Airport Delay Analysis](https://user-images.githubusercontent.com/107516898/179373397-feacb6fa-5882-4037-95f4-f02f23c2fa22.png)
+
 
 
 
